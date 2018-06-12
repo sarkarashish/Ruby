@@ -1,5 +1,5 @@
 puts "My first program"
-a,b=10,30
+a,b=10,30,40
 n = "Ashish\n"
 diff = a - b
 c = a * b
