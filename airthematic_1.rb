@@ -1,6 +1,6 @@
 # basic math operations
 
-    a,b = 50,20
+    a,b,c = 50,20,30
     puts sum = a + b
     puts diff = a - b
     puts mult = a * b
